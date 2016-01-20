@@ -10,7 +10,7 @@ a bad attempt at Maki symbols from one of my favorite shirts
 * license and hormone free, do with them what you will, have your cake and eat it too, and have other people watch you while you eat it.
 * pull requests most welcome, im 100% sure they could have been drawn better
 * 24px sized svg's, perfect for that `mapbox studio` project you've had on the back-burner
-* two flavors, straight & sloppy, so you can maintain maximum hipness while at work
+* add unpresedented levels of personal curation by using [maki-chef](https://www.mapbox.com/maki-chef/)  
 * includes seamless pattern style, perfect for [cool new homepage](http://jonahadkins.github.io) backgrounds
 
 *all design credit to [RCVA](https://www.rvca.com), the manufacturer of the shirt.*  
