@@ -2,7 +2,7 @@
 *i got [this shirt](https://www.instagram.com/p/i1fJNMCBUr/) a few years ago, i've always equated it's design to "Symbols on a Map", and i've always wanted to make them legit map symbols. thus...*
 
 # hipster_makis
-a bad attempt at Maki symbols from one of my favorite shirts  
+my first attempt at [Maki-Style](https://github.com/mapbox/maki) symbols   
 
 ![](https://raw.githubusercontent.com/jonahadkins/hipster_makis/master/the_shirt.png) ![](https://raw.githubusercontent.com/jonahadkins/hipster_makis/master/pattern_200px.png)  
 
@@ -13,7 +13,7 @@ a bad attempt at Maki symbols from one of my favorite shirts
 * pull requests most welcome, im 100% sure they could have been drawn better
 * 24px sized svg's, perfect for that `mapbox studio` project you've had on the back-burner
 * add unpresedented levels of personal curation by using [maki-chef](https://www.mapbox.com/maki-chef/)  
-* includes seamless pattern style, perfect for [cool new homepage](http://jonahadkins.github.io) backgrounds
+* includes seamless pattern png, perfect for [cool new homepage](http://jonahadkins.github.io) backgrounds
 
 *all design credit to [RCVA](https://www.rvca.com), the manufacturer of the shirt.*  
 
