@@ -6,6 +6,8 @@ a bad attempt at Maki symbols from one of my favorite shirts
 
 ![](https://raw.githubusercontent.com/jonahadkins/hipster_makis/master/the_shirt.png) ![](https://raw.githubusercontent.com/jonahadkins/hipster_makis/master/pattern_200px.png)  
 
+![](https://raw.githubusercontent.com/jonahadkins/hipster_makis/master/svg-chef.png)  
+
 15 icons i can only describe as `hipster-esque map symbols from a forgotten map of farm to table farms` 
 * license and hormone free, do with them what you will, have your cake and eat it too, and have other people watch you while you eat it.
 * pull requests most welcome, im 100% sure they could have been drawn better
